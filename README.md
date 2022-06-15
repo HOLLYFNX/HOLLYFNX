@@ -12,13 +12,15 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt"Matheus-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="Matheus-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
-  <img align="center" alt="Matheus-Maya" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
-  <img align="center" alt="Matheus-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img align="center" alt="Matheus-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-    <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://discord.com/channels/976574975035211786/976574975572082709/986664243388620890">
-</div>                             
+  <img align="center" alt"Matheus-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" >
+  <img align="center" alt="Matheus-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >  
+  <img align="center" alt="Matheus-Maya" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" >
+  <img align="center" alt="Matheus-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" >
+  <img align="center" alt="Matheus-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" >
+  ![HOMEMDEGELO](https://user-images.githubusercontent.com/62623407/173879703-ed4575e4-188f-4664-928d-5ce8511a9fc2.gif)
+
+</div>    
+  
  
   ##
   
