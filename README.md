@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi eu sou Matheus Barbosa!
 
 <div align="center">
   <a href="https://github.com/HOLLYFNX">
@@ -17,8 +17,7 @@
   <img align="center" alt="Matheus-Maya" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" >
   <img align="center" alt="Matheus-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" >
   <img align="center" alt="Matheus-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" >
-  ![HOMEMDEGELO](https://user-images.githubusercontent.com/62623407/173879703-ed4575e4-188f-4664-928d-5ce8511a9fc2.gif)
-
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/9d/8f/51/9d8f514d14d048a8503b7c9b0bd958dd.jpg">
 </div>    
   
  
@@ -26,8 +25,7 @@
   
   <div>
     <a href="mailto:mathisilva9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>  
-   <div>
     <a href="https://instagram.com/b_arbosa"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/matheus-barbosa-benedito"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>  
+   ![Snake animation](https://github.com/HOLLYFNX/HOLLYFNX/blob/output/github-contribution-grid-snake.svg)
