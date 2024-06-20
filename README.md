@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/HOLLYFNX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HOLLYFNX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HOLLYFNX&hide=contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOLLYFNX&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
